@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-08-12T15:00:27.760601Z",
+      "format": null,
+      "last_modified": "2021-08-12T14:46:11.856514Z",
+      "mimetype": null,
+      "name": "exploration.ipynb",
+      "path": "content/ddojo_03/exploration.ipynb",
+      "size": 421,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-12T15:00:27.764601Z",
+      "format": null,
+      "last_modified": "2021-08-12T14:44:54.320508Z",
+      "mimetype": "text/csv",
+      "name": "roll_calls.csv",
+      "path": "content/ddojo_03/roll_calls.csv",
+      "size": 1526701,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-12T15:00:27.776601Z",
+      "format": null,
+      "last_modified": "2021-08-12T14:44:54.340508Z",
+      "mimetype": "text/csv",
+      "name": "unvotes.csv",
+      "path": "content/ddojo_03/unvotes.csv",
+      "size": 18894418,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-12T15:00:27.760601Z",
+      "format": null,
+      "last_modified": "2021-08-12T14:44:54.316509Z",
+      "mimetype": "text/csv",
+      "name": "issues.csv",
+      "path": "content/ddojo_03/issues.csv",
+      "size": 171754,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2021-08-12T15:00:27.768601Z",
+  "format": "json",
+  "last_modified": "2021-08-12T15:00:27.768601Z",
+  "mimetype": null,
+  "name": "ddojo_03",
+  "path": "content/ddojo_03",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
