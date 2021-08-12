@@ -2,6 +2,7 @@
   "jupyter-config-data": {
     "appUrl": "./lab",
     "baseUrl": "./",
+    "collaborative": true,
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
